@@ -1,0 +1,2 @@
+SUPABASE_URL=https://exkraroayvekfsxwwdkz.supabase.co
+        SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV4a3Jhcm9heXZla2ZzeHd3ZGt6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzkyOTA2NjgsImV4cCI6MjA1NDg2NjY2OH0.G9NRZO3p8Z9QLYAvRQqwCzpdZ-aAdu8WjetfDoCvL3c

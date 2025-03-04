@@ -1,2 +1,21 @@
-SUPABASE_URL=https://exkraroayvekfsxwwdkz.supabase.co
-        SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV4a3Jhcm9heXZla2ZzeHd3ZGt6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzkyOTA2NjgsImV4cCI6MjA1NDg2NjY2OH0.G9NRZO3p8Z9QLYAvRQqwCzpdZ-aAdu8WjetfDoCvL3c
+import React from 'react';
+
+    const Hero: React.FC = () => {
+      return (
+        <section id="hero" className="py-24 bg-light text-neutral text-center">
+          <div className="container mx-auto">
+            <h1 className="text-5xl font-playfair-display font-bold mb-6">
+              Elevate Your Fitness Journey
+            </h1>
+            <p className="text-xl mb-12">
+              Achieve your fitness goals with our expert trainers and state-of-the-art facilities.
+            </p>
+            <a href="#contact" className="bg-accent text-light py-3 px-8 rounded-full hover:bg-secondary hover:text-light transition duration-300">
+              Get Started
+            </a>
+          </div>
+        </section>
+      );
+    };
+
+    export default Hero;
